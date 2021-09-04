@@ -2,7 +2,7 @@
 MRI Reconstruction Using Energy-Based Model
 
 ## Visual illustration of the invertible medical image synthesis and fusion in variable augmentation manner
- <div align="center"><img src="https://github.com/yqx7150/EBMRec/blob/main/Figs/Fig1.png"> </div>
+ <div align="center"><img src="https://github.com/yqx7150/EBMRec/blob/main/Figs/Fig1.png"  width = "400" height = "450"> </div>
  
 ## The training pipeline of iVAN
  <div align="center"><img src="https://github.com/yqx7150/EBMRec/blob/main/Figs/Fig2.png"> </div>
