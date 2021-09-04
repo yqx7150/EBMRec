@@ -2,16 +2,16 @@
 MRI Reconstruction Using Energy-Based Model
 
 ## Visual illustration of the invertible medical image synthesis and fusion in variable augmentation manner
- <div align="center"><img src="https://github.com/yqx7150/EBMRec/blob/main/Figs/Fig1.png"> </div>
+ <div align="center"><img src="https://github.com/yqx7150/EBMRec/blob/main/Figs/Fig1.png" width = "800" height = "400"> </div>
  
 ## The training pipeline of iVAN
- <div align="center"><img src="https://github.com/yqx7150/EBMRec/blob/main/Figs/Fig2.png" width = "600" height = "300"> </div>
+ <div align="center"><img src="https://github.com/yqx7150/EBMRec/blob/main/Figs/Fig2.png" width = "800" height = "400"> </div>
  
 ## Two visualization results of synthesizing from T1 to T2
- <div align="center"><img src="https://github.com/yqx7150/EBMRec/blob/main/Figs/Fig5.png"> </div>
+ <div align="center"><img src="https://github.com/yqx7150/EBMRec/blob/main/Figs/Fig5.png" width = "800" height = "400"> </div>
  
 ## Three fusion results of T2-weighted MR and CT images
- <div align="center"><img src="https://github.com/yqx7150/EBMRec/blob/main/Figs/Fig6.png"> </div>
+ <div align="center"><img src="https://github.com/yqx7150/EBMRec/blob/main/Figs/Fig6.png" width = "800" height = "400"> </div>
 
 # Pretrained Models
 We provide pretrained checkpoints. You can download pretrained models from [Baidu Drive](https://pan.baidu.com/s/1spFtJLw-5GFwg9rHB015yA). key number is "gygy "and unzip into the folder cachedir.
