@@ -8,10 +8,10 @@ MRI Reconstruction Using Energy-Based Model
  <div align="center"><img src="https://github.com/yqx7150/EBMRec/blob/main/Figs/Fig2.png" width = "781" height = "450"> </div>
  
 ## Two visualization results of synthesizing from T1 to T2
- <div align="center"><img src="https://github.com/yqx7150/EBMRec/blob/main/Figs/Fig5.png"> </div>
+ <div align="center"><img src="https://github.com/yqx7150/EBMRec/blob/main/Figs/Fig5.png" width = "844" height = "556"> </div>
  
 ## Three fusion results of T2-weighted MR and CT images
- <div align="center"><img src="https://github.com/yqx7150/EBMRec/blob/main/Figs/Fig6.png"> </div>
+ <div align="center"><img src="https://github.com/yqx7150/EBMRec/blob/main/Figs/Fig6.png" width = "893" height = "558"> </div>
 
 # Pretrained Models
 We provide pretrained checkpoints. You can download pretrained models from [Baidu Drive](https://pan.baidu.com/s/1spFtJLw-5GFwg9rHB015yA). key number is "gygy "and unzip into the folder cachedir.
