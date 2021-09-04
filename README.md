@@ -1,16 +1,16 @@
-# EBMRec
-MRI Reconstruction Using Energy-Based Model
+# MRI Reconstruction Using Energy-Based Model
+The Code is created based on the method described in the following paper: MRI Reconstruction Using Energy-Based Model
 
-## Visual illustration of the invertible medical image synthesis and fusion in variable augmentation manner
+## Overview of the MRI reconstruction
  <div align="center"><img src="https://github.com/yqx7150/EBMRec/blob/main/Figs/Fig1.png" width = "815" height = "470"> </div>
  
-## The training pipeline of iVAN
+## Detailed comparison of characteristics and structures in the flow chart of GAN and EBM. 
  <div align="center"><img src="https://github.com/yqx7150/EBMRec/blob/main/Figs/Fig2.png" width = "781" height = "450"> </div>
  
-## Two visualization results of synthesizing from T1 to T2
+## Complex-valued reconstruction results on brain images at various 1D Cartesian under-sampling percentages in 15 coils parallel imaging. The reconstruction results on brain images at R=3.
  <div align="center"><img src="https://github.com/yqx7150/EBMRec/blob/main/Figs/Fig5.png" width = "844" height = "556"> </div>
  
-## Three fusion results of T2-weighted MR and CT images
+## Complex-valued reconstruction results on brain image at R=6 pseudo random sampling in 12 coils parallel imaging.
  <div align="center"><img src="https://github.com/yqx7150/EBMRec/blob/main/Figs/Fig6.png" width = "893" height = "558"> </div>
 
 # Pretrained Models
