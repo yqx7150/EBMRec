@@ -1,7 +1,7 @@
 # MRI Reconstruction Using Energy-Based Model
 The Code is created based on the method described in the following paper: MRI Reconstruction Using Energy-Based Model
 
-## Overview of the MRI reconstruction
+## Overview of the MRI reconstruction.
  <div align="center"><img src="https://github.com/yqx7150/EBMRec/blob/main/Figs/Fig1.png" width = "815" height = "470"> </div>
  
 ## Detailed comparison of characteristics and structures in the flow chart of GAN and EBM. 
