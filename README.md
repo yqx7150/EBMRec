@@ -5,7 +5,7 @@ MRI Reconstruction Using Energy-Based Model
  <div align="center"><img src="https://github.com/yqx7150/EBMRec/blob/main/Figs/Fig1.png" width = "815" height = "470"> </div>
  
 ## The training pipeline of iVAN
- <div align="center"><img src="https://github.com/yqx7150/EBMRec/blob/main/Figs/Fig2.png" width = "938" height = "541"> </div>
+ <div align="center"><img src="https://github.com/yqx7150/EBMRec/blob/main/Figs/Fig2.png" width = "781" height = "450"> </div>
  
 ## Two visualization results of synthesizing from T1 to T2
  <div align="center"><img src="https://github.com/yqx7150/EBMRec/blob/main/Figs/Fig5.png"> </div>
