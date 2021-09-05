@@ -1,5 +1,5 @@
 # MRI Reconstruction Using Energy-Based Model
-The Code is created based on the method described in the following paper: MRI Reconstruction Using Energy-Based Model
+The Code is created based on the method described in the following paper: MRI Reconstruction Using Energy-Based Model.
 
 ## Overview of the MRI reconstruction.
  <div align="center"><img src="https://github.com/yqx7150/EBMRec/blob/main/Figs/Fig1.png" width = "815" height = "470"> </div>
@@ -26,6 +26,7 @@ All code supports horovod execution, so model training can be increased substant
 mpiexec -n <worker_num>  <command>
 For example: "mpiexec --oversubscribe -n 1" or "mpiexec --oversubscribe -n 4"
 ```
+
 # Test
 If you want to test the code，please
 ```bash
@@ -35,7 +36,6 @@ python3 EBM_test_ddp.py --exp=siat256 --resume_iter=164250 --step_lr=50 --swish_
 
 python3 EBM_test_modl.py --exp=siat256 --resume_iter=164250 --step_lr=10 --swish_act
 ```
-
 
 # Acknowledgement
 The implementation is based on this repository: https://github.com/openai/ebm_code_release.
