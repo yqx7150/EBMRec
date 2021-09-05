@@ -30,6 +30,8 @@ For example: "mpiexec --oversubscribe -n 1" or "mpiexec --oversubscribe -n 4"
 If you want to test the code，please
 ```bash
 python3 EBM_test.py --exp=siat256 --resume_iter=164250 --step_lr=300 --swish_act
+python3 compare_ddp.py --exp=siat256 --resume_iter=164250 --step_lr=50 --swish_act
+python3 compare_modl.py --exp=siat256 --resume_iter=164250 --step_lr=10 --swish_act
 ```
 
 
