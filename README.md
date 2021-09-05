@@ -7,7 +7,7 @@ The Code is created based on the method described in the following paper: MRI Re
 ## Detailed comparison of characteristics and structures in the flow chart of GAN and EBM. 
  <div align="center"><img src="https://github.com/yqx7150/EBMRec/blob/main/Figs/Fig2.png" width = "781" height = "450"> </div>
  
-## Complex-valued reconstruction results on brain images at various 1D Cartesian under-sampling percentages in 15 coils parallel imaging. The reconstruction results on brain images at R=3.
+## Complex-valued reconstruction results on brain images at R=3 various 1D Cartesian under-sampling percentages in 15 coils parallel imaging.
  <div align="center"><img src="https://github.com/yqx7150/EBMRec/blob/main/Figs/Fig5.png" width = "844" height = "556"> </div>
  
 ## Complex-valued reconstruction results on brain image at R=6 pseudo random sampling in 12 coils parallel imaging.
