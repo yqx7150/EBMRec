@@ -1,8 +1,9 @@
 # MRI Reconstruction Using Energy-Based Model
-The Code is created based on the method described in the following paper: MRI Reconstruction Using Energy-Based Model.
+The Code is created based on the method described in the following paper:
+MRI Reconstruction Using Energy-Based Model.
+Authors: Yu Guan, Zongjiang Tu, Shanshan Wang, Qiegen Liu, Yuhao Wang, Dong Liang.
 
 https://arxiv.org/submit/3916316/view
-Authors: Yu Guan, Zongjiang Tu, Shanshan Wang, Qiegen Liu, Yuhao Wang, Dong Liang
 
 Date : Sep. 1, 2021
 Version : 1.0
