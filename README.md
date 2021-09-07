@@ -1,5 +1,11 @@
 # MRI Reconstruction Using Energy-Based Model
 The Code is created based on the method described in the following paper: MRI Reconstruction Using Energy-Based Model.
+https://arxiv.org/submit/3916316/view
+Authors:
+Date : Sep. 1, 2021
+Version : 1.0
+The code and the algorithm are for non-comercial use only.
+Copyright 2021, Department of Electronic Information Engineering, Nanchang University.
 
 ## Overview of the MRI reconstruction.
  <div align="center"><img src="https://github.com/yqx7150/EBMRec/blob/main/Figs/Fig1.png" width = "815" height = "470"> </div>
