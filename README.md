@@ -2,9 +2,9 @@
 The Code is created based on the method described in the following paper: MRI Reconstruction Using Energy-Based Model.
 
 https://arxiv.org/submit/3916316/view
+Authors: Yu Guan, Zongjiang Tu, Shanshan Wang, Qiegen Liu, Yuhao Wang, Dong Liang
 
-**Authors**: Yu Guan, Zongjiang Tu, Shanshan Wang, Qiegen Liu, Yuhao Wang, Dong Liang
-**Date** : Sep. 1, 2021
+Date : Sep. 1, 2021
 Version : 1.0
 The code and the algorithm are for non-comercial use only.
 Copyright 2021, Department of Electronic Information Engineering, Nanchang University.
