@@ -1,4 +1,4 @@
-# MRI Reconstruction Using Energy-Based Model
+# MRI Reconstruction Using Deep Energy-Based Model
 The Code is created based on the method described in the following paper: MRI Reconstruction Using Deep Energy-Based Model.    
 
 https://arxiv.org/abs/2109.03237    
