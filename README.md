@@ -1,9 +1,9 @@
 # MRI Reconstruction Using Deep Energy-Based Model
 The Code is created based on the method described in the following paper: MRI Reconstruction Using Deep Energy-Based Model.    
+NMR in Biomedicine
+https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/nbm.4848    
 
-https://arxiv.org/abs/2109.03237    
-
-Author: Yu Guan, Zongjiang Tu, Shanshan Wang, Qiegen Liu, Yuhao Wang, Dong Liang.  
+Author: Yu Guan, Zongjiang Tu, Shanshan Wang, Yuhao Wang, Qiegen Liu*, Dong Liang*.  
 Date : Sep. 7, 2021  
 Version : 1.0   
 The code and the algorithm are for non-comercial use only.   
